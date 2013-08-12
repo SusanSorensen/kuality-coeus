@@ -178,7 +178,7 @@ starka:  # AKA: "Principal Name"
     :111: '000001'
     :110: '000001'
 martelld:  # AKA: "Principal Name"
-  :description:      creating test user with aggregator permissions
+  :description:      Departmental level user with aggregator permissions to all in dept
   :affiliation_type: Other Academic Group
   :campus_code:      'UN - UNIVERSITY'
   :first_name:       Doran
